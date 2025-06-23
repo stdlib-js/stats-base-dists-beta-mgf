@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-06-23)
+
+<section class="features">
+
+### Features
+
+-   [`59e3497`](https://github.com/stdlib-js/stdlib/commit/59e34970fdb39b1d0fe09d5bda55ced722608a0d) - add C implementation `stats/base/dists/beta/mgf` [(#4779)](https://github.com/stdlib-js/stdlib/pull/4779)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3430](https://github.com/stdlib-js/stdlib/issues/3430)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`59e3497`](https://github.com/stdlib-js/stdlib/commit/59e34970fdb39b1d0fe09d5bda55ced722608a0d) - **feat:** add C implementation `stats/base/dists/beta/mgf` [(#4779)](https://github.com/stdlib-js/stdlib/pull/4779) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
 -   [`d87dd71`](https://github.com/stdlib-js/stdlib/commit/d87dd71ce7fcfbc3af99acd57d13604b877fbb7b) - **bench:** update random value generation [(#6812)](https://github.com/stdlib-js/stdlib/pull/6812) _(by Harsh)_
 -   [`b7ca1bd`](https://github.com/stdlib-js/stdlib/commit/b7ca1bd43ab7777ea30f52b4f1392a78f3ad7b1b) - **docs:** replace manual `for` loop in examples [(#6793)](https://github.com/stdlib-js/stdlib/pull/6793) _(by Harsh)_
 -   [`9394549`](https://github.com/stdlib-js/stdlib/commit/939454926b745326a5b14bcd0924a0526baa93da) - **bench:** refactor random number generation in `stats/base/dists/beta` [(#4837)](https://github.com/stdlib-js/stdlib/pull/4837) _(by Karan Anand)_
@@ -27,11 +50,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
+-   Shabareesh Shetty
 
 </section>
 
