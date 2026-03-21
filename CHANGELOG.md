@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-21)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`acd1595`](https://github.com/stdlib-js/stdlib/commit/acd1595cd6aad7f256df747f499575c865e30506) - **docs:** correct C example in `stats/base/dists/beta/mgf` [(#11051)](https://github.com/stdlib-js/stdlib/pull/11051) _(by Om Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
