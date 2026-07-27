@@ -1,4 +1,4 @@
-"use strict";var v=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var a=v(function(B,m){
+"use strict";var v=function(e,r){return function(){try{return r||e((r={exports:{}}).exports,r),r.exports}catch(u){throw (r=0, u)}};};var a=v(function(B,m){
 var q=require('@stdlib/math-base-special-beta/dist'),F=require('@stdlib/math-base-special-abs/dist'),k=require('@stdlib/constants-float64-eps/dist');function w(e,r,u){var n,o,i,s,t;o=q(r,u),i=1,s=1,t=1;do s*=e/t,n=q(r+t,u)/o*s,i+=n,t+=1;while(F(n/i)>=k);return i}m.exports=w
 });var g=v(function(C,N){
 var c=require('@stdlib/math-base-assert-is-nan/dist'),E=a();function O(e,r,u){return c(e)||c(r)||c(u)||r<=0||u<=0?NaN:E(e,r,u)}N.exports=O
