@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-08-20)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`0902b03`](https://github.com/stdlib-js/stdlib/commit/0902b03d126d351193fd22733163bf277d4306ee) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`4df94c4`](https://github.com/stdlib-js/stdlib/commit/4df94c400faa6789db335debdc8aa388f508d843) - **docs:** add missing usage notes sections and MGF link [(#14392)](https://github.com/stdlib-js/stdlib/pull/14392) _(by Philipp Burckhardt)_
 -   [`6a4d961`](https://github.com/stdlib-js/stdlib/commit/6a4d9614841138f791bfad6fc7d694dffff81a6c) - **docs:** propagate recent doc fixes across `stats/base/dists/*` [(#11815)](https://github.com/stdlib-js/stdlib/pull/11815) _(by Philipp Burckhardt)_
 -   [`acd1595`](https://github.com/stdlib-js/stdlib/commit/acd1595cd6aad7f256df747f499575c865e30506) - **docs:** correct C example in `stats/base/dists/beta/mgf` [(#11051)](https://github.com/stdlib-js/stdlib/pull/11051) _(by Om Anand)_
 
